@@ -1,0 +1,34 @@
+{
+    "preguntas": [
+    {
+        "id": 1,
+        "pregunta": "Elige el orden correcto en el que los miembros de BLACKPINK fueron revelados...",
+        "opciones": ["JISOO - JENNIE - ROSÉ - LISA", "JISOO - LISA - JENNIE - ROSÉ", "JENNIE - JISOO - LISA - ROSÉ", "JENNIE - JISOO - ROSÉ - LISA", "JENNIE - LISA - JISOO - ROSÉ"],
+        "respuesta": 5
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Cuál es la suma de las fechas de nacimiento de todos los miembros de BLACKPINK?",
+        "opciones": ["757", "752", "57"],
+        "respuesta": 1
+    },
+    {
+        "id": 3,
+        "pregunta": "Elige qué tipo de regalo floral recibe JENNIE de su madre cada cumpleaños.",
+        "opciones": ["Rosa azul", "Girasol", "Jacinto amarillo", "Rosas rosadas", "Lisianto"],
+        "respuesta": 2
+    },
+    {
+        "id": 4,
+        "pregunta": "Aquí hay algunos álbumes de BLACKPINK. Elija la respuesta que los enumere en el orden de publicación correcto.\n A.THE ALBUM\n B.SQUARE UP\n C.BORN PINK\n D.KILL THIS LOVE",
+        "opciones": ["D - B - A - C", "B - D - A - C", "B - D - C - A", "D - B - C - A", "A - B - D - C"],
+        "respuesta": 5
+    },
+    {
+        "id": 5,
+        "pregunta": "Elija el significado correcto de la serie de YouTube de BLACKPINK B.P.M.",
+        "opciones": ["BLACKPINK MEMORIES", "BLACKPINK MOMENTS", "BLACKPINK MAKING FILM", "BORN PINK MEMORIES", "BORN PINK MOMENTS"],
+        "respuesta": 4
+    }
+    ]
+}
